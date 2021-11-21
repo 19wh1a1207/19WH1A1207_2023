@@ -1,3 +1,4 @@
+##  Problem Statement
 Given a parentheses string s containing only the characters '(' and ')'. A parentheses string is balanced if:
 
 Any left parenthesis '(' must have a corresponding two consecutive right parenthesis '))'.
